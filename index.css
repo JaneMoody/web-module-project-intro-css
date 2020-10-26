@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+nav {
+  height: 5rem;
+  margin-top: 5%;
+}
+
+a {
+  border-radius: 12%;
+  text-align: center;
+  margin-left: 12%;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 1rem;
+  color: white;
+}
+
+.plan {
+  background-color: #ff764e;
+}
+
+.learn {
+  background-color: #5ed3eb;
+}
+
+.involved {
+  background-color: #ffcd69;
+}
+
+header {
+  width: 95%;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+header img {
+  border-radius: 50%;
+  width: 20%;
+  float: left;
+  margin-left: 110px;
+}
+
+header div {
+  margin-left: 10%;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: "Chelsea Market", cursive;
+  font-size: 3rem;
+  margin-top: 20px;
+}
+
+header p,
+.second_p {
+  padding: 15px;
+  margin-left: 25%;
+}
+
+header p {
+  width: 70%;
+}
+
+header .second_p {
+  width: 40%;
+  margin-left: 40%;
+}
+
+.main_text {
+  background-color: #331807;
+  color: white;
+  width: 95%;
+  margin: 0% auto;
+  font-size: 18px;
+}
+.main_text p {
+  width: 90%;
+  margin: 0% auto;
+  padding: 2%;
+}
+
+.info {
+  margin: 0% auto;
+  width: 40%;
+}
+.info img {
+  width: 30%;
+  margin-left: 30%;
+  margin-top: 20px;
+}
+.info p {
+  width: 60%;
+  text-align: center;
+  margin-left: 80px;
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #f9e7dc;
+}
+
+footer img {
+  height: 400px;
+  width: 100%;
+}
